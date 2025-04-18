@@ -19,12 +19,12 @@
    ```
 2. Установите зависимости:
    ```bash
-  npm install tesseract.js
-  ```
+     npm install tesseract.js
+   ```
 3.Запустите локальный сервер (например, с помощью Live Server или сервера на Node.js):
    ```bash
-   npm install -g serve
-    \serve
+      npm install -g serve
+      serve
    ```
 
 ## Основной функционал (Features)
