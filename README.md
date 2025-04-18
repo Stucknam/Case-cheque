@@ -17,9 +17,11 @@
    git clone https://github.com/Stucknam/Case-cheque.git
    cd Case-cheque
 2. Установите зависимости:
+   ```bash
   npm install tesseract.js
 3.Запустите локальный сервер (например, с помощью Live Server или сервера на Node.js):
-  npm install -g serve
+   ```bash
+   npm install -g serve
     \serve .
 
 ## Основной функционал (Features)
